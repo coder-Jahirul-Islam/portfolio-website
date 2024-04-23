@@ -251,6 +251,7 @@ a {
     padding: 42px 24px;
 }
 .section_title{
+    font-size: 42px;
     text-align: center;
     margin-bottom: 70px;
 }
@@ -284,7 +285,8 @@ a {
 .gallery_title {
     margin-bottom: 30px;
     color: #f3afa8;
-    font-size: 25px;
+    font-size:20px;
+    line-height:25px;
     font-weight: 500;
 }
 
@@ -307,3 +309,7 @@ a {
     -o-transition: all;
     transition-duration: .5s;
 }
+
+
+
+
