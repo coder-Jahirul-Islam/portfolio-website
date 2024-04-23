@@ -190,3 +190,14 @@ a {
     -o-border-radius: 10px;
 }
 
+/* company logo_bar branding */
+.logo_bar{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap:86px 68px;
+    padding: 42px 68px;
+    background-color: white;
+}
+
